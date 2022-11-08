@@ -1,0 +1,4 @@
+ID: 1
+Client ID: 2
+Date Order: 2022-04-29T20:39:37.627497500
+Items: [BaseProduct{title='"""Blanketed"" Eggplant "', rating=3.75, calories=1386.0, protein=105.0, fat=98.0, sodium=578.0, price=88.0}, BaseProduct{title='"""Bloody Mary"" Tomato Toast with Celery and Horseradish "', rating=5.0, calories=189.0, protein=2.0, fat=16.0, sodium=517.0, price=16.0}, BaseProduct{title='"""Brown on Blonde"" Blondies "', rating=0.0, calories=321.0, protein=5.0, fat=18.0, sodium=120.0, price=96.0}, BaseProduct{title='"""California Roll"" Salad "', rating=4.375, calories=369.0, protein=9.0, fat=13.0, sodium=953.0, price=67.0}]

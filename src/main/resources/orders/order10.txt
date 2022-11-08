@@ -1,0 +1,4 @@
+ID: 10
+Client ID: 2
+Date Order: 2022-05-19T16:17:19.426807600
+Items: [BaseProduct{title='"""Candy Corn"" Frozen Citrus Cream Pops "', rating=2.5, calories=251.0, protein=6.0, fat=9.0, sodium=88.0, price=90.0}, BaseProduct{title='"""Cocotte"" of Vegetables "', rating=3.75, calories=196.0, protein=8.0, fat=14.0, sodium=272.0, price=93.0}, BaseProduct{title='"""Opulent"" Chicken "', rating=4.375, calories=660.0, protein=20.0, fat=49.0, sodium=1025.0, price=83.0}, BaseProduct{title='"""Route 66"" Chili "', rating=3.125, calories=640.0, protein=57.0, fat=32.0, sodium=1346.0, price=16.0}]

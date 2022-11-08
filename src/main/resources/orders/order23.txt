@@ -1,0 +1,4 @@
+ID: 23
+Client ID: 5
+Date Order: 2022-05-19T17:10:03.818101400
+Items: [BaseProduct{title='"""Brown on Blonde"" Blondies "', rating=0.0, calories=321.0, protein=5.0, fat=18.0, sodium=120.0, price=96.0}, BaseProduct{title='"""California Roll"" Salad "', rating=4.375, calories=369.0, protein=9.0, fat=13.0, sodium=953.0, price=67.0}, BaseProduct{title='"""Cannoli"" Ice Cream Sandwiches "', rating=3.75, calories=379.0, protein=7.0, fat=20.0, sodium=289.0, price=34.0}]
